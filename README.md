@@ -4,7 +4,7 @@ A [MagicMirror²](https://magicmirror.builders/) module that fetches and display
 
 Unlike other Google Tasks modules, MMM-Tasks prioritizes what needs your attention right now by separating tasks by due date. Overdue tasks are highlighted so nothing slips through the cracks.
 
-![Screenshot placeholder](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ## Prerequisites
 
