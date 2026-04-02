@@ -1,0 +1,23 @@
+{
+  "name": "mmm-tasks",
+  "version": "1.0.0",
+  "description": "A MagicMirror² module that displays Google Tasks split into active (due today/overdue) and backlog sections",
+  "keywords": [
+    "MagicMirror",
+    "MagicMirror2",
+    "google-tasks",
+    "tasks",
+    "todo",
+    "smart-mirror"
+  ],
+  "author": "MatthewNewsum",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatthewNewsum/MMM-Tasks"
+  },
+  "bugs": {
+    "url": "https://github.com/MatthewNewsum/MMM-Tasks/issues"
+  },
+  "homepage": "https://github.com/MatthewNewsum/MMM-Tasks#readme"
+}

@@ -1,0 +1,56 @@
+.mmm-tasks {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 24px;
+    color: #fff;
+    max-width: 350px;
+}
+
+.tasks-header {
+    font-size: 22px;
+    font-weight: bold;
+    color: #7eb8d4;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #333;
+    padding-bottom: 3px;
+}
+
+.task-row {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    line-height: 1.4;
+}
+
+.task-bullet {
+    color: #555;
+    font-size: 22px;
+    flex-shrink: 0;
+}
+
+.task-title {
+    flex: 1;
+    color: #ddd;
+    font-size: 24px;
+}
+
+.task-due {
+    color: #888;
+    font-size: 19px;
+    flex-shrink: 0;
+}
+
+.task-row.overdue .task-title {
+    color: #f0a500;
+}
+
+.task-row.overdue .task-due {
+    color: #f0a500;
+}
+
+.tasks-none {
+    color: #555;
+    font-size: 22px;
+}

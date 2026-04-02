@@ -1,0 +1,6 @@
+tasks_data.json
+__pycache__/
+*.pyc
+node_modules/
+token.json
+credentials.json
